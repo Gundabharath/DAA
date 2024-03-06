@@ -1,4 +1,4 @@
-a="string vijaya"
+a="string Bharath"
 b=reversed(a)
 if a==b:
     print("palindrome")
