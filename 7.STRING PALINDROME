@@ -1,6 +1,0 @@
-a="string Bharath"
-b=reversed(a)
-if a==b:
-    print("palindrome")
-else:
-    print("not palindrome")
